@@ -1,0 +1,35 @@
+
+.box1{
+    background-color: white;
+    border-radius: 10px;
+    justify-content: start;
+    flex-direction: row;
+
+}
+.box2{
+    background-color: white;
+    border-radius: 10px;
+    align-items: center;
+    
+}
+.box3{
+    background-color: white;
+    border-radius: 10px;
+}
+.sub{
+    background-color: gray;
+    border-radius : 10px solid grey;
+    width: 180px;
+    color: white;
+}
+.text{
+    background-color: grey;
+    text-align: center;
+    height: 200px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.flex-container{
+    display: flex;
+}
